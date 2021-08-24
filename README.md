@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kubaryt
-- 👀 I’m interested in Heroes of Might and Magic III HotA, I'm player, tournament author, templates author and active community member; also I interesting hardware and programming.
+- 👋 Hi, I'm @Kubaryt
+- 👀 I'm interested in Heroes of Might and Magic III HotA, I'm player, tournament author, templates author and active community member; also I'm interested in hardware and programming.
 - 📫 How to reach me:
 - email: kubastarzyk6554@gmail.com
 - discord: Kubaryt#4656
